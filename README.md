@@ -33,8 +33,6 @@
 
 **Dev Blog.** [https://velog.io/@srkim1228](https://velog.io/@srkim1228)
 
-**GitHub.** [https://github.com/SeongrokKim](https://github.com/SeongrokKim)
-
 **LinkedIn.** [https://www.linkedin.com/in/%EC%84%B1%EB%A1%9D-%EA%B9%80-b6410b288/](https://www.linkedin.com/in/%EC%84%B1%EB%A1%9D-%EA%B9%80-b6410b288/)
 
 <div align=center><h1>📞 Contact</h1></div>
