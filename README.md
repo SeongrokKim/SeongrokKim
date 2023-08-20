@@ -1,4 +1,4 @@
-🖐 Hi there!
+🖐 Hi there! [About me](https://www.notion.so/Seongrok-Kim-0226a5a8a0f54d2788f41e4e4f4e65a3)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
